@@ -53947,6 +53947,7 @@ s=this.e
 s.fy.saY(0,"")
 r.CW.sj(0,"")
 s.CW.sj(0,null)
+s.cx.sj(0,-1)
 this.aA()},
 I(a){var s=null,r=A.br(!0,s,!0,!0,s,s,!1),q=$.bv,p=(q==null?$.bv=$.dh():q).dl("[DEFAULT]")
 A.cB(p,$.de(),!0)
@@ -53995,7 +53996,13 @@ $1(a){var s=this.a.e
 if(!s.dx.gj(0))s.zq()},
 $S:10}
 A.aIO.prototype={
-$0(){this.a.e.fy.saY(0,"")},
+$0(){var s=this.a,r=s.d
+r.ch.sj(0,"")
+s=s.e
+s.fy.saY(0,"")
+r.CW.sj(0,"")
+s.CW.sj(0,null)
+s.cx.sj(0,-1)},
 $S:0}
 A.aIQ.prototype={
 $2(a,b){var s=null,r=this.a,q=r.e,p=J.a4(q.fx.gj(0),b),o=A.a3(B.c.e8(p.c),s,s,s,s,s,A.am().$1$color(B.f),s,s,s)
